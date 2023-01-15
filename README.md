@@ -8,6 +8,6 @@ So I came across a really interesting package called yahoo_fin, you can read in 
 
 This package is super handy and helps automate the process of pulling data related to stock prices in real time and many other finanical data.
 
-
+Here is a code output for one of the functions from the yahoo fin package which gives the analyst info for Apple.
 ![Yahoo](https://user-images.githubusercontent.com/106689439/212539368-e2f7ce96-60b0-43b3-99c8-e78859ca7cd2.jpg)
 
